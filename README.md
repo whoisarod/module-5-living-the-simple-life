@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Living The Simple Life Project for Module 5
 
 ## Supporting Scrimba
 
